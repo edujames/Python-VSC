@@ -47,6 +47,8 @@ miLabel3.place(x=200, y=50)
 cuadroTexto = Entry(miFrame, font=("Comic Sans MS", 12))
 cuadroTexto.grid(row=1, column=0, padx=10, pady=10)
 
+cuadroTexto.config(show="?")
+
 
 
 
